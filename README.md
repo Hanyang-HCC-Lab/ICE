@@ -1,4 +1,4 @@
 # ICE
 
-This is the official repository for our paper: "Adversarial Normalization: I Can visualize Everything (ICE)". 
+This repository is the official implementation of "Adversarial Normalization: I Can visualize Everything (ICE)". 
 Source code will be available soon.
