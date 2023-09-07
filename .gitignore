@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+*.tar
+case4
+imagenet_segmentation/gtsegs_ijcv.mat
+imagenet_segmentation/run
+imagenet_segmentation/__pycache__
+jaccard_similarity/data
+jaccard_similarity/__pycache__
