@@ -54,8 +54,7 @@ jaccard_similarity code is based on Transformer Interpretability Beyond Attentio
 Thank you for the authors releasing their codes.
 
 ## Models
-We will soon release our pre-trained model can be downloaded from Google Drive
-[link](https://drive.google.com/file/d/1zuuO40NPf-poWx-ncewj6MDV60n4LZiO/view?usp=sharing)
+[Model checkpoint](https://drive.google.com/file/d/1zuuO40NPf-poWx-ncewj6MDV60n4LZiO/view?usp=sharing)
 
 ## Citing our paper
 ```
