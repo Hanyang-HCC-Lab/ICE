@@ -284,7 +284,6 @@ class VisionTransformer(nn.Module):
                 x = blk(x)
 
             att = x[:, 1:].clone()
-            #att = self.norm(att)
             att = self.mlp_head(att)
           
         x = self.norm(x)
